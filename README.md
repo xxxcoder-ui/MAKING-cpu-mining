@@ -21,7 +21,7 @@ pause
 
 i use config this with unmineable pool
 
-Please change my address for your addres change "42cApzE94VmcnywTZnqi2v2hfMdhx9o9sa3HMQGDtEYt6UJuYew3Y2fDrmGVAQzpWLGuNVW3mf8GSC9FAPRNYrwDGz5hyCD"
+Please change my address for your address change "42cApzE94VmcnywTZnqi2v2hfMdhx9o9sa3HMQGDtEYt6UJuYew3Y2fDrmGVAQzpWLGuNVW3mf8GSC9FAPRNYrwDGz5hyCD"
 
 with your address monero.
 
